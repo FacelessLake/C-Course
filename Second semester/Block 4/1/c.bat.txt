@@ -1,0 +1,1 @@
+cl integerset.c /LD /D DLLIBRARY_EXPORTS
